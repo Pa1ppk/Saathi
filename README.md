@@ -14,7 +14,7 @@ This report outlines the development, structure, and implementation of the Trave
 7. **Deployment Strategy**
 8. **Security and Environment Variables**
 9. **Project Setup and Running the Application**
-10. **Future Enhancements**
+
 
 
 
@@ -143,11 +143,5 @@ travel-itinerary-app/
 - **Docker Setup**:
   - Use `docker-compose up --build` from the root directory.
 
-
-
-### **10. Future Enhancements**
-- **User Authentication**: Add login/signup functionality.
-- **Custom Itinerary Modification**: Enable users to edit suggested itineraries.
-- **Microservices Architecture**: Split backend, AI, and frontend into independent microservices.
 
 This point-based README serves as a comprehensive guide for understanding and building the Travel Itinerary Application. Feel free to ask for any additional details or clarifications!
